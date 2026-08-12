@@ -1,4 +1,3 @@
-# Blinkit- Analysis
 
 # Blinkit Grocery Data Analysis Dashboard
 
